@@ -104,11 +104,13 @@ hr {
 }
 
 .hero .hero-img {
-    max-width: 80%;
+    max-width: 50%;
     width: 350px;
     display: block;
     margin: auto;
-    border-radius: 30px;
+    border-radius: 2rem;
+    border: solid black;
+    padding: 5px;
 }
 
 .hero .hero-heading {
